@@ -1,0 +1,22 @@
+                                       # Bookify Room Reservation System
+
+
+créer un système de gestion de réservation de salles pour l'entreprise Bookify. Ce système devra permettre aux employés de réserver des salles de réunion en fonction de la disponibilité et des besoins spécifiques.
+
+# Installer et configurer son environnement
+ 
+-en utiliser XAMPP
+
+# uml Schema
+
+-The system is built on uml modilisation schema: 
+-- diagramme use cas 
+-- diagramme sequnces 
+-- diagramme classe
+
+# sql/erd
+
+- creation database bookify
+- creation des tables bookify 
+- insertion / update / selection
+
