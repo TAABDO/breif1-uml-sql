@@ -71,3 +71,4 @@ SELECT * FROM employes where Nom='taouil';
 SELECT * FROM Reservations inner JOIN Employes on Reservations.Employe_id = employes.id inner JOIN Salles on Salles.id=employes.id
 
   where employes.Nom='nabile' and Salles.Nom='math';
+  
